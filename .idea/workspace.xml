@@ -1,11 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="961fcfdf-f069-46ee-af8c-c91cd72e26a2" name="Default Changelist" comment="" />
+    <list default="true" id="961fcfdf-f069-46ee-af8c-c91cd72e26a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/y-so-serious-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/me.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/me.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -14,6 +23,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZYT2TBJbvVzoyR7UMkR0jBOj6c" />
   <component name="ProjectViewState">
@@ -24,6 +36,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
@@ -44,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585014820806</updated>
       <workItem from="1585014825218" duration="15831000" />
+      <workItem from="1585043017039" duration="3225000" />
     </task>
     <servers />
   </component>
@@ -63,10 +77,10 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1202" y="133" key="SettingsEditor/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585014979556" />
-    <state width="498" height="450" key="SwitcherDM" timestamp="1585040199306">
+    <state width="498" height="450" key="SwitcherDM" timestamp="1585044388673">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state width="498" height="450" key="SwitcherDM/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585040199306" />
+    <state width="498" height="450" key="SwitcherDM/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585044388673" />
     <state x="-1297" y="256" width="672" height="678" key="search.everywhere.popup" timestamp="1585031173397">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
