@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="961fcfdf-f069-46ee-af8c-c91cd72e26a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/types.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/me.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/me.css" afterDir="false" />
     </list>
@@ -36,10 +36,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/images" />
     </key>
@@ -55,7 +59,9 @@
       <option name="presentableId" value="Default" />
       <updated>1585014820806</updated>
       <workItem from="1585014825218" duration="15831000" />
-      <workItem from="1585043017039" duration="9852000" />
+      <workItem from="1585043017039" duration="9958000" />
+      <workItem from="1585097326741" duration="1405000" />
+      <workItem from="1585110797879" duration="3520000" />
     </task>
     <task id="LOCAL-00001" summary="index complete">
       <created>1585050628470</created>
@@ -71,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585050767343</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="详情 complete">
+      <created>1585057669280</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585057669280</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +95,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -90,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="index complete" />
+    <MESSAGE value="详情 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="详情 complete" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1496" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585015743520">
@@ -101,10 +117,10 @@
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1385" y="234" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585033773720" />
-    <state x="-892" y="151" key="CommitChangelistDialog2" timestamp="1585050767022">
+    <state x="-892" y="151" key="CommitChangelistDialog2" timestamp="1585057668976">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
-    <state x="-892" y="151" key="CommitChangelistDialog2/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585050767022" />
+    <state x="-892" y="151" key="CommitChangelistDialog2/0.23.1280.777/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1585057668976" />
     <state x="-1202" y="133" key="SettingsEditor" timestamp="1585014979556">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
