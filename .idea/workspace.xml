@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="961fcfdf-f069-46ee-af8c-c91cd72e26a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/aboutMe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/blogs .html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/admin/blogs-input .html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archives.html" beforeDir="false" afterPath="$PROJECT_DIR$/archives.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,16 +37,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static/images" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/lib/editormd" />
+      <recent name="$PROJECT_DIR$/static/images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -60,7 +64,8 @@
       <workItem from="1585014825218" duration="15831000" />
       <workItem from="1585043017039" duration="9958000" />
       <workItem from="1585097326741" duration="1405000" />
-      <workItem from="1585110797879" duration="6197000" />
+      <workItem from="1585110797879" duration="10260000" />
+      <workItem from="1585132215509" duration="7316000" />
     </task>
     <task id="LOCAL-00001" summary="index complete">
       <created>1585050628470</created>
